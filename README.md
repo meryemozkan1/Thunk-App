@@ -12,7 +12,7 @@ Bu proje, React, Redux, Redux Thunk ve React Router DOM kullanarak geliştirilmi
 - Sayfa Geçişleri: React Router DOM ile sayfalar arasında kolayca geçiş yapılabilir. <br>
 - Durum Yönetimi: Redux ile uygulamanın durumu yönetilir, Thunk ile asenkron işlemler gerçekleştirilir. <br>
 
-<h1> Özellikleri </h1>
+<h1> Kütüphaneler </h1>
 <hr>
 
 - Tailwind CSS: Hızlı ve kullanışlı stil oluşturmak için kullanıldı. <br>
